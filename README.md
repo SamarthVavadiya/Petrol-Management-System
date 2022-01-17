@@ -1,5 +1,5 @@
 Petrol-Management-System<br />
-Django based Petrol Inventry Management System. I have used the argon dashboard template which is available for free online.
+Django based Petrol Inventry Management System. I have used the argon dashboard template(for frontend) which is available for free online.
 
 Features:<br />
 Petrol pump administrator can add/update/delete petrol details.<br />
