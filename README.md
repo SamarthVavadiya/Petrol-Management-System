@@ -3,7 +3,7 @@ Django based Petrol Inventry Management System. I have used the argon dashboard 
 
 Features:<br />
 Petrol pump administrator can add/update/delete petrol details.<br />
-Petrol can be sold to end user along with invoice and records<br />
+Petrol can be sold to end user along with invoice and records tracking facility<br />
 
 Technology Used:<br />
 Frontend : HTML, CSS, BOOTSTRAP<br/>
