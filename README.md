@@ -12,6 +12,7 @@ Backend : Python Django Framework
 
 Installation
 1. Open this project in vs code or other IDE.
-2. Create virtual environment
-3. Open cmd and execute python manage.py makemigrations and python manage.py migrate
-4. Execute python manage.py runserver and open the link to see the application.
+2. Enter your email and password in IMS/settings.py, in order to send otp from that ID.
+3. Create virtual environment
+4. Open cmd and execute python manage.py makemigrations and python manage.py migrate
+5. Execute python manage.py runserver and open the link to see the application.
